@@ -1,9 +1,10 @@
 import "./App.css";
+import { Branding } from "../../atoms/branding/Branding";
 
 function App() {
 	return (
-		<div className='App'>
-			<header className='App-header'></header>
+		<div>
+			<Branding />
 		</div>
 	);
 }
