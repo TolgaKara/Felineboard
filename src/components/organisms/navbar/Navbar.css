@@ -1,0 +1,23 @@
+nav {
+	display: flex;
+	justify-content: space-around;
+}
+
+.menu {
+	display: flex;
+	list-style: none;
+}
+
+.menu a {
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+	margin-left: 1em;
+}
+
+.cta-btn {
+	padding: 1em 1em;
+	border-radius: 0.1em;
+	box-shadow: #000 5px 5px 0 0;
+	background: yellow;
+}
