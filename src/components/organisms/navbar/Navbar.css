@@ -10,14 +10,15 @@ nav {
 
 .menu a {
 	text-decoration: none;
-	color: black;
+	color: #f8961e;
 	font-weight: bold;
 	margin-left: 1em;
 }
 
-.cta-btn {
+.menu li .cta-btn {
 	padding: 1em 1em;
 	border-radius: 0.1em;
 	box-shadow: #000 5px 5px 0 0;
-	background: yellow;
+	color: whitesmoke;
+	background: #f8961e;
 }
