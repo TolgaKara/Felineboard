@@ -7,3 +7,25 @@
 	height: 100vh;
 	z-index: -1;
 }
+
+.cta {
+	background: rgba(255, 255, 255, 0.7);
+	padding: 3em;
+	box-shadow: #000 0 2px 0 0;
+	top: 20%;
+	left: 36%;
+	position: fixed;
+	display: flex;
+	flex-direction: column;
+	justify-items: center;
+	align-items: center;
+	z-index: 3;
+}
+
+.cta-btn {
+	padding: 1em 1em;
+	border-radius: 0.1em;
+	box-shadow: #000 5px 5px 0 0;
+	color: whitesmoke;
+	background: #f8961e;
+}
